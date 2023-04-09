@@ -8,6 +8,8 @@ Shows a styled search bar where you are able to type a location and gather infor
 
 
 Info Page:
-Shows you the searched location alongside current weather conditions, temperature, humidity and wind speed. 
+Shows you the searched location alongside current weather conditions such as :
+temperature, humidity and wind speed.
+
 ![Locations](https://user-images.githubusercontent.com/113186634/230786708-2afb20b5-0971-46be-8ceb-5fa2074f197c.gif)
 
